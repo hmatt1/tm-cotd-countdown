@@ -15,7 +15,7 @@ jobs:
       with:
         type: 'zip'
         filename: 'CotdCountdown.op'
-        exclusions: 'LICENSE *.md .gitignore'
+        exclusions: 'LICENSE *.md .git*'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
