@@ -1,8 +1,8 @@
 
-[Setting name="CotdCountdownTextColor"]
+[Setting name="TextColor"]
 string colorCode = "\\$0F7";
 
-[Setting name="CotdCountdownTextPosition"]
+[Setting name="TextPosition"]
 string textPosition = "300";
 
 void RenderMenuMain()
