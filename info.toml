@@ -1,0 +1,14 @@
+[meta]
+name = "COTD Countdown"
+author = "hmatt1"
+category = "Utilities"
+
+blocks = []
+
+version = "0.1"
+
+[game]
+min_version = "2020-12-25"
+
+[script]
+imports = []
