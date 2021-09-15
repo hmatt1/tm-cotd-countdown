@@ -1,5 +1,7 @@
 # TrackMania Cup of the Day Countdown
 
+[![Total Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.nl%2Fapi%2Ffile%2F124)](https://openplanet.nl/files/131)
+
 OpenPlanet plugin for TrackMania that displays a countdown until next Cup of the Day (COTD)
 
 ## Releases
