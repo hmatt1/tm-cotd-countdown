@@ -1,5 +1,28 @@
 # TrackMania Cup of the Day Countdown
-OpenPlanet TrackMania plugin to display countdown until next Cup of the Day (COTD)
+
+[![Total Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.nl%2Fapi%2Ffile%2F131)](https://openplanet.nl/files/131)
+
+OpenPlanet plugin for TrackMania that displays a countdown until next Cup of the Day (COTD)
+
+## Releases
+
+Releases are available from OpenPlanet: https://openplanet.nl/files/131
+
+## Settings configuration
+
+Text color and text position are configurable via Settings.ini
+
+For example, if you want white text in the top right corner, add the following section to the Settings.ini
+
+```
+[CotdCountdown]
+colorCode=\$FFF
+textPosition=4
+```
+
+## Contributions welcome!
+
+Feel free to make changes and open a PR. Open an issue if you have any questions!
 
 ## Creating a release
 
